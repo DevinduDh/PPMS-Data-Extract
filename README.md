@@ -16,7 +16,7 @@ This repository contains a Python script designed to extract data from a space-d
 
 1. **Open the notebook** in Google Colab by clicking the button below:
 
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DevinduDh/PPMS-Data-Extract/blob/main/PPMS-extract.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DevinduDh/PPMS-Data-Extract/blob/main/PPMS_extract.ipynb)
    
 
 3. **Upload your `.txt` file** when prompted.

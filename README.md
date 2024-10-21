@@ -17,12 +17,13 @@ This repository contains a Python script designed to extract data from a space-d
 1. **Open the notebook** in Google Colab by clicking the button below:
 
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DevinduDh/PPMS-Data-Extract/blob/main/PPMS-extract.ipynb)
+   
 
-2. **Upload your `.txt` file** when prompted.
+3. **Upload your `.txt` file** when prompted.
 
-3. The script will process the file and create a `.ras` file containing the extracted data.
+4. The script will process the file and create a `.ras` file containing the extracted data.
 
-4. **Download the resulting `.ras` file** from the output.
+5. **Download the resulting `.ras` file** from the output.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
